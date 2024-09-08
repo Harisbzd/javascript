@@ -5,6 +5,9 @@ accountCity = "doha";
 
 let accountNumber;
 
+/*
+do not use var data type because of the issue with the the scope 
+*/
 
 console.log(accountId);
 
